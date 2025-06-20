@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Islom 👋</h1>
 
 <p align="center">
-  <b>.NET Developer | Team Player | Project: ContactFlow</b>
+  <b>.NET Developer
 </p>
 
 ---
