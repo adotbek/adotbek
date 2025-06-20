@@ -30,5 +30,4 @@
   </a>
 </p>
 
-[![Play Snake](https://img.shields.io/badge/PLAY--NOW-green?style=for-the-badge&logo=github)](https://username.github.io/snake-game/)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iislommm&show_icons=true&theme=radical)
