@@ -7,7 +7,7 @@
 ---
 
 💻 Currently working on:  
-🎯 <b>ContactFlow</b> – A smart contact management system with authentication and role-based access.  
+🎯 <b>ContactFlow</b> – A smart contact management system with authentication and role-based access(with team).  
 
 📌 Tech stack:  
 `.NET Core` • `EF Core` • `MSSQL` • `REST APIs` • `Git` • `Clean Architecture`
