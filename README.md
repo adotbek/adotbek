@@ -7,7 +7,8 @@
 ---
 
 💻 Currently working on:  
-🎯 <b>EduHub</b> – A Website that sells any lessons (videos) with authentication and role-based access.  
+🎯 <b>HomeHunter</b> – A Backend for Website that helps people to rent homes
+.  
 
 📌 Tech stack:  
 `.NET Core` • `EF Core` • `MSSQL` • `REST APIs` • `Git` • `Clean Architecture`
