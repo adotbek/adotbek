@@ -31,7 +31,7 @@
   </a>
 </p>
 
-![Islom's GitHub stats](https://github-readme-stats.vercel.app/api?username=islomok'tamaliyev&show_icons=true&theme=radical)
+![Islom's GitHub stats](https://github-readme-stats.vercel.app/api?username=islomoktamaliyev&show_icons=true&theme=radical)
 
 
 # 💻 Tech Stack:
