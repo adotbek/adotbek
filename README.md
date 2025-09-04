@@ -31,7 +31,6 @@
   </a>
 </p>
 
-![Islom's GitHub stats](https://github-readme-stats.vercel.app/api?username=islomoktamaliyev&show_icons=true&theme=radical)
 
 
 # 💻 Tech Stack:
