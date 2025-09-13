@@ -7,11 +7,8 @@
 ---
 
 💻 Currently working on:  
-🎯 <b>HomeHunter</b> – A Backend for Website that helps people to rent homes
-🚀 Currently working on [AutoLedger](https://github.com/your-repo-link) — an accounting & finance management system designed to simplify bookkeeping.
-👨‍💻 Currently working on *AutoLedger*, a collaborative project with my team to build a modern solution for automated accounting and financial tracking.
-⚡ Currently contributing to AutoLedger — developing APIs and core features for an automated ledger & financial tracking system.
-.  
+🎯 Currently working on [AutoLedger](https://github.com/mrbuzb/AutoLedger) — an accounting & finance management system designed to simplify bookkeeping.
+t.  
 
 📌 Tech stack:  
 `.NET Core` • `EF Core` • `MSSQL` • `REST APIs` • `Git` • `Clean Architecture`
