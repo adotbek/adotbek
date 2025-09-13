@@ -6,8 +6,7 @@
 
 ---
 
-💻 Currently working on:  
-🎯 Currently working on [AutoLedger](https://github.com/mrbuzb/AutoLedger) — an accounting & finance management system designed to simplify bookkeeping.
+💻 Currently working on [AutoLedger](https://github.com/mrbuzb/AutoLedger) — an accounting & finance management system designed to simplify bookkeeping.
 t.  
 
 📌 Tech stack:  
