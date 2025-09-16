@@ -24,10 +24,7 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 
-  <a href="https://www.instagram.com/lslommm/profilecard/?igsh=OW9iOWQ3cjJ1ZGxu" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+
 
 
 
