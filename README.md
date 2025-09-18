@@ -25,7 +25,7 @@
   </a>
 
 ## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adotbek&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adotbek&layout=compact&theme=tokyonight)
 
 
 
