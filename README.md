@@ -25,13 +25,11 @@
 
 ---
 
-### 🌐 Connect with me:
 
-<p align="left">
-  <a href="mailto:islomjonoktamaliyev06@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
 
-  <a href="https://t.me/pididdiy" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
+<h2 align="center">Contact</h2>
+<p align="center">
+<a href="https://t.me/pididdiy">📬 Telegram</a> •
+<a href="mailto:islomjonoktamaliyev06@gmail.com">✉️ Email</a> •
+<a href="https://www.linkedin.com/in/islomjon-%C3%B5ktamaliyev-19a79b365/">💼 LinkedIn</a>
+</p>
