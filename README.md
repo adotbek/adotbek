@@ -8,7 +8,7 @@
 
 💻 Currently working on [AutoLedger](https://github.com/mrbuzb/AutoLedger) — an accounting & finance management system designed to simplify bookkeeping.
 
-📌 Tech stack:  
+📌   
 `.NET Core` • `EF Core` • `MSSQL` • `REST APIs` • `Git` • `Clean Architecture`
 
 ---
