@@ -4,7 +4,6 @@
   <b>.NET Developer
 </p>
 
----
 
 
 ## 🛠️ Tech Stack
@@ -18,8 +17,6 @@
 **DevOps & Tools:** `Docker` • `Azure` • `Git` • `CI/CD`
 
 **API Tools:** `Swagger` • `Postman`
-
----
 
 
 
