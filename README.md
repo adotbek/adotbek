@@ -1,23 +1,3 @@
-<h1 align="center">Hi there, I'm Islom 👋</h1>
-
-<p align="center">
-  <b>.NET Developer
-</p>
-
-
-
-## 🛠️ Tech Stack
-
-**Backend:** `.NET Core` • `C#` • `EF Core` • `REST APIs` • `gRPC` • `RabbitMQ` • `Clean Architecture`
-
-**Frontend:** `React` • `Angular`
-
-**Databases:** `MSSQL` • `PostgreSQL` • `MongoDB` • `Redis`
-
-**DevOps & Tools:** `Docker` • `Azure` • `Git` • `CI/CD`
-
-**API Tools:** `Swagger` • `Postman`
-
 
 
 <h2 align="center">Contact</h2>
